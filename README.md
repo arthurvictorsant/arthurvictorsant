@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou Arthur Victor
 
-Sou **Analista de QA Pleno** com mais de 3 anos de experiência, especializado em automação de testes E2E, API e Performance. Minha missão é garantir entregas de qualidade, atuando em todo o ciclo de desenvolvimento, desde a análise de requisitos até a integração contínua (CI/CD).
+Sou **Analista de QA Pleno** com 4 anos de experiência, especializado em automação de testes E2E, API e Performance. Minha missão é garantir entregas de qualidade, atuando em todo o ciclo de desenvolvimento, desde a análise de requisitos até a integração contínua (CI/CD).
 
 Com background em **desenvolvimento Full Stack** e experiência em **Big Data** (Hadoop, Kafka, HBase, HIVE), consigo atuar de forma ampla com equipes de desenvolvimento, construindo frameworks de testes robustos e eficientes, além de apoiar em correções e melhorias no código.
 
@@ -45,15 +45,6 @@ Atualmente cursando **Engenharia de Software**, estou sempre em busca de novos d
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurvictorsant&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurvictorsant&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 ---
 
