@@ -66,13 +66,14 @@ Projeto completo de automação de testes de API REST utilizando **Postman** e c
 ### Sunter Tecnologia - Analista de QA Pleno
 **Ago 2025 - Presente**
 - Automação de testes E2E, APIs e banco de dados PostgreSQL
-- Construção de frameworks com Selenium, Cypress e Playwright
+- Construção de frameworks com Cypress e Playwright
 - Apresentações técnicas para clientes
 - Desenvolvimento e correção de códigos front-end
 
 ### EISA - Analista de QA e Desenvolvedor
 **Jul 2022 - Ago 2025**
 - QA em projetos de Big Data para VIVO
+- Construção de frameworks com Cypress e Playwright
 - Automação com Ruby e Selenium em ambiente Linux
 - Desenvolvimento front-end (Angular) no projeto SIRIUS
 - Trabalho com Hadoop (YARN, HDFS, HBase, HIVE) e Apache Kafka
