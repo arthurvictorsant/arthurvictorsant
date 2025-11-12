@@ -53,7 +53,7 @@ Atualmente cursando **Engenharia de Software**, estou sempre em busca de novos d
 ### [🔗 Automação E2E com Cypress](https://github.com/arthurvictorsant/desafio-cypress-QA)
 Projeto de automação de testes E2E para o site LojaEbac utilizando **Cypress** com JavaScript e o padrão **Page Object Model**.
 
-### [🔗 Automação E2E com Playwright](https://github.com/arthurvictorsant/desafio-cypress-QA)
+### [🔗 Automação E2E com Playwright](https://github.com/arthurvictorsant/Automation_Project_PlayWright)
 Framework de automação de testes E2E utilizando **Playwright** com TypeScript seguindo o padrão **Page Object Model**.
 
 ### [🔗 Automação de API REST](https://github.com/arthurvictorsant/desafio-api-QA)
